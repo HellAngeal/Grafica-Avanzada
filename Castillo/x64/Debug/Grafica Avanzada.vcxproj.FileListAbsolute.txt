@@ -1,0 +1,4 @@
+C:\Users\persi\source\repos\Grafica Avanzada\x64\Debug\Grafica Avanzada.exe
+C:\Users\persi\source\repos\Grafica Avanzada\x64\Debug\Grafica Avanzada.pdb
+C:\Users\persi\source\repos\Castillo\x64\Debug\Grafica Avanzada.exe
+C:\Users\persi\source\repos\Castillo\x64\Debug\Grafica Avanzada.pdb
