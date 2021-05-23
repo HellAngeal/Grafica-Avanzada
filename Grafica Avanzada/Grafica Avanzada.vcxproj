@@ -143,7 +143,45 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="glad.c" />
-    <ClCompile Include="Grafica Avanzada.cpp" />
+    <ClCompile Include="texturas.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="luces1.fs" />
+    <None Include="luces1.vs" />
+    <None Include="luces2.fs" />
+    <None Include="luces2.vs" />
+    <None Include="skybox.fs" />
+    <None Include="skybox.vs" />
+    <None Include="texturas.fs" />
+    <None Include="texturas.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="blackbrick.jpg" />
+    <Image Include="brick.jpg" />
+    <Image Include="carita.png" />
+    <Image Include="contenedor.png" />
+    <Image Include="cosa1.png" />
+    <Image Include="cosa2.jpg" />
+    <Image Include="descarga.jpg" />
+    <Image Include="dogomeme.png" />
+    <Image Include="dvd.png" />
+    <Image Include="ghost.jpg" />
+    <Image Include="green.jpg" />
+    <Image Include="lavaTexture.jpg" />
+    <Image Include="lightwood.jpg" />
+    <Image Include="lisa.jpg" />
+    <Image Include="macarena.jpg" />
+    <Image Include="marble.jpg" />
+    <Image Include="marfil.jpg" />
+    <Image Include="smoke.jpg" />
+    <Image Include="tejas.jpg" />
+    <Image Include="texturanormal.jpg" />
+    <Image Include="wood2.jpg" />
+    <Image Include="woodwall.jpg" />
+    <Image Include="woodwindow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="camara.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,11 +15,97 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Grafica Avanzada.cpp">
-      <Filter>Archivos de origen</Filter>
-    </ClCompile>
     <ClCompile Include="glad.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="texturas.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="texturas.vs" />
+    <None Include="texturas.fs" />
+    <None Include="luces1.vs" />
+    <None Include="luces1.fs" />
+    <None Include="luces2.vs" />
+    <None Include="luces2.fs" />
+    <None Include="skybox.vs" />
+    <None Include="skybox.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="dogomeme.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="texturanormal.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="carita.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="cosa2.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="brick.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="contenedor.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="cosa1.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="descarga.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="dvd.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="ghost.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="green.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="lavaTexture.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="lisa.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="macarena.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="marble.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="marfil.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="smoke.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="tejas.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="wood2.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="woodwall.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="blackbrick.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="woodwindow.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="lightwood.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="camara.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

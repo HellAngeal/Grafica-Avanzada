@@ -1,2 +1,11 @@
-﻿LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+﻿  texturas.cpp
+C:\glfw\glfw-3.3.2.bin.WIN64\include\shader\shader.h(48,34): warning C4101: 'e': variable local sin referencia
+C:\Users\persi\source\repos\Grafica Avanzada\texturas.cpp(368,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\persi\source\repos\Grafica Avanzada\texturas.cpp(680,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\persi\source\repos\Grafica Avanzada\texturas.cpp(681,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\persi\source\repos\Grafica Avanzada\texturas.cpp(685,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\persi\source\repos\Grafica Avanzada\texturas.cpp(686,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\persi\source\repos\Grafica Avanzada\texturas.cpp(688,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\persi\source\repos\Grafica Avanzada\texturas.cpp(689,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\persi\source\repos\Grafica Avanzada\texturas.cpp(698,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
   Grafica Avanzada.vcxproj -> C:\Users\persi\source\repos\Grafica Avanzada\x64\Debug\Grafica Avanzada.exe
